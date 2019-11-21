@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 20
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 7
     },
     {
       "id": 5,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Forky",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Forky_waving.png/220px-Forky_waving.png",
+      "id": 9,
+      "likes": 3
+    },
+    {
+      "name": "Lots-O'-Huggin' Bear",
+      "image": "https://toppng.com/public/uploads/preview/lots-o-huggin-bear-lotso-from-toy-story-115630383952vx1qtu3gd.png",
+      "id": 10,
+      "likes": 2
+    },
+    {
+      "name": "Lenny the Binoculars",
+      "image": "https://i.pinimg.com/originals/dd/d6/81/ddd681ba67aba2e2b4c944ef3f0f8726.jpg",
+      "id": 11,
+      "likes": 8
     }
   ]
 }
