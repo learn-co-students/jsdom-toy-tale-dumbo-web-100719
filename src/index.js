@@ -57,6 +57,7 @@ let buildList = (allToys) => {
 
  let likeToy = (toyObject, toyP) => {
   let indToyUrl = `http://localhost:3000/toys/${toyObject.id}`
+  toyObject.likes++
   fetch(indToyUrl, {
     method:'PATCH',
    headers: { 
