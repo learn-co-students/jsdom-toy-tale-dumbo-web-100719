@@ -22,7 +22,7 @@ On the `index.html` page, there is a `div` with the `id` "toy-collection."
 When the page loads, make a 'GET' request to fetch all the toy objects. With the
 response data, make a `<div class="card">` for each toy and add it to the
 toy-collection `div`.
-
+<!-- 
 ## Add Toy Info to the Card
 
 Each card should have the following child elements:
@@ -30,8 +30,8 @@ Each card should have the following child elements:
   * `h2` tag with the toy's name
   * `img` tag with the `src` of the toy's image attribute and the class name "toy-avatar"
   * `p` tag with how many likes that toy has
-  * `button` tag with a class "like-btn"
-
+  * `button` tag with a class "like-btn" -->
+<!-- 
 After all of that, the toy card should resemble:
 
 ```html
@@ -41,7 +41,7 @@ After all of that, the toy card should resemble:
     <p>4 Likes </p>
     <button class="like-btn">Like <3</button>
   </div>
-```
+``` -->
 
 ## Add a New Toy
 
@@ -65,6 +65,11 @@ body: JSON.stringify({
 ```
 
 * For examples, refer to the [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options).
+
+
+
+
+
 
 ## Increase Toy's Likes
 
